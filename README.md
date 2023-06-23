@@ -1,7 +1,3 @@
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alain-pereida-prado-64b45b1b7) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/AlainPereida) 
-
 <h1 align="center">Hi 👋, I'm Alain Pereida Prado</h1>
 <h3 align="center">A passionate frontend developer from México</h3>
 
