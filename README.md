@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Rust, Nestjs, IA.**
 
-- 👨‍💻 All of my projects are available at [https://alcesoftware.com.mx/](https://alcesoftware.com.mx/)
+- 👨‍💻 All of my projects are available at [My portfolio](https://pereidanet.me/)
 
 - 📫 How to reach me **alain.pereida@gmail.com**
 
